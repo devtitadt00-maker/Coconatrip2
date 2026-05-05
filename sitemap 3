@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Deskripsi: Sitemap gambar untuk Coconutrip — mencantumkan gambar publik agar Google Images mengindeks foto-foto utama.
+  Map gambar diarahkan terutama ke halaman /gallery dan halaman tour terkait.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://coconutrip.info/gallery</loc>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/d8b20aec-f4d0-424c-815b-3771ebf67064.jpeg</image:loc>
+      <image:caption>Top view of Piaynemo — group on wooden boardwalk</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/288ff2c9-64c2-406a-8343-e5e4fee019d4.jpeg</image:loc>
+      <image:caption>Man on balcony overlooking tropical bay</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/b20a67e5-e73e-43f7-a5f9-0c3ebbc742ba.jpeg</image:loc>
+      <image:caption>Piaynemo welcome sign & group photo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/d8766ec9-c923-43c8-b565-9fc85c4d82c6.jpeg</image:loc>
+      <image:caption>Wide-angle scenic tropical beach (Raja Ampat)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/85143ee0-ebba-4472-85f8-9430a46204a5.png</image:loc>
+      <image:caption>Aerial islands cluster — Raja Ampat thumbnail</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/ff260f77-ef14-43c3-834f-7327c86dfa50.JPG</image:loc>
+      <image:caption>Dive boat on white sand — DIVE BOAT 02</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/7b6dc435-8437-4f92-865f-f3cda551c5c5.JPG</image:loc>
+      <image:caption>Family on pristine white sand beach</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/9aaaf338-2eef-4641-b2d2-ee20ddd2fe63.JPG</image:loc>
+      <image:caption>Couple walking on white sand toward horizon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/41fed4d7-a5f7-4370-b1fb-b0ad299895e2.png</image:loc>
+      <image:caption>Palm tree illustration (decorative)</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://coconutrip.info/tours/raja-ampat</loc>
+    <image:image>
+      <image:loc>https://pub-cdn.sider.ai/u/U0W8HK2EWKL/web-coder/69eb1f92416fc6401b87e515/resource/85143ee0-ebba-4472-85f8-9430a46204a5.png</image:loc>
+      <image:caption>Raja Ampat aerial islands — tour cover</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

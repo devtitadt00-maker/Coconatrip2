@@ -1,0 +1,43 @@
+/**
+ * @file GalleryItem.tsx
+ * @description Komponen thumbnail untuk gallery — menampilkan gambar kecil dengan caption ringkas.
+ */
+
+import React from "react";
+
+/**
+ * @interface GalleryItemProps
+ * @description Props untuk komponen GalleryItem
+ */
+export interface GalleryItemProps {
+  /** URL gambar */
+  src: string;
+  /** teks alternatif untuk aksesibilitas */
+  alt?: string;
+  /** caption pendek yang ditampilkan di lightbox */
+  caption?: string;
+  /** callback saat thumbnail diklik */
+  onOpen: () => void;
+}
+
+/**
+ * @component GalleryItem
+ * @description Menampilkan satu thumbnail gambar untuk grid gallery. Bertanggung jawab untuk UI thumbnail saja.
+ */
+export default function GalleryItem({ src, alt, caption, onOpen }: GalleryItemProps) {
+  return (
+    <button
+      type="button"
+      onClick={onOpen}
+      aria-label={alt || caption || "Open image"}
+      className="relative overflow-hidden rounded-lg bg-gray-100 hover:scale-105 transition-transform duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+    >
+      <img src={src} alt={alt ?? caption ?? "Gallery image"} className="w-full h-40 sm:h-48 md:h-40 lg:h-44 object-cover" />
+      {caption ? (
+        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent text-white text-xs sm:text-sm p-2">
+          <span className="truncate block px-1">{caption}</span>
+        </div>
+      ) : null}
+    </button>
+  );
+}

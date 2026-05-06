@@ -1,4 +1,8 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://coconutrip.info/sitemap.xml
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://coconutrip.info/</loc>
+<lastmod>2026-05-06</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+</urlset>

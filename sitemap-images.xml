@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://coconutrip.info/</loc>
+
+    <image:image>
+      <image:loc>https://coconutrip.info/assets/nama-gambar-1.jpg</image:loc>
+      <image:title>Coconut Trip</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://coconutrip.info/assets/nama-gambar-2.jpg</image:loc>
+      <image:title>Coconut Trip Travel</image:title>
+    </image:image>
+
+  </url>
+
+</urlset>

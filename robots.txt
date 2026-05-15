@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://coconutrip.info/sitemap.xml
+Sitemap: https://coconutrip.info/wp-sitemap.xml

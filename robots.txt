@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://coconatrip2.vercel.app/
+Sitemap: https://coconatrip2.vercel.app/sitemap.xml

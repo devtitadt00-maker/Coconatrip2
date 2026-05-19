@@ -1,42 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coconatrip2.vercel.app/</loc>
-    <priority>1.00</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/highlight</loc>
-    <priority>0.90</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/paket</loc>
-    <priority>0.90</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/itinerary</loc>
-    <priority>0.80</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/galeri</loc>
-    <priority>0.80</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/tentang-kami</loc>
-    <priority>0.70</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/cara-booking</loc>
-    <priority>0.70</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://coconatrip2.vercel.app/kontak</loc>
-    <priority>0.70</priority>
+    <lastmod>2026-05-19</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
